@@ -15,3 +15,5 @@ Instagram : @rusman_toby
 Email : rusmants.public@pm.me
 
 [![Visits Badge](https://badges.pufler.dev/visits/RTechnoS/tokopedia_scrap?style=for-the-badge&color=blue)](https://github.com/RTechnoS/RTechnoS)
+
+<a href="https://trakteer.id/rtechs/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-5.png" style="border:0px;height:40px;" alt="Trakteer Saya" height="40"></a>
